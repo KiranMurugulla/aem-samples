@@ -1,4 +1,4 @@
 aem-samples
 ===========
 
-This project contains code snippet for Adobe Experience Manager 6.0 mostly used customizations
+This project contains sample code snippets for mostly used Adobe Experience Manager 6.0 customizations
